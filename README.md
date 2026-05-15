@@ -1,5 +1,7 @@
 # flutter-expert-plugin
 
+![cover](./cover.png)
+
 Claude Code plugin — Flutter 3.x + Riverpod + Accessibility expert agent and skill.
 
 ## Install
